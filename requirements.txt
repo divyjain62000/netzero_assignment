@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+pandas
+openpyxl
+fake-useragent
+googlesearch-python
+newspaper3k
+selenium
